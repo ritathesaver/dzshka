@@ -2,9 +2,6 @@
 	display: flex;
 }
 
-.content-wrapper {
-	height: 100vh;
-}
 .component {
 	display: flex;
 
@@ -25,6 +22,7 @@
 	color: #b5076b;
 }
 .third {
+	font-size: 35px;
 	background-color: #74d4c0;
 	color: #9a1f40;
 }
