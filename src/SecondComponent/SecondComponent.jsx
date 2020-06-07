@@ -1,8 +1,8 @@
 import React from 'react';
-
+import '../App.css';
 const SecondComponent = () => {
 	return (
-		<div>
+		<div className="component second">
 			<h1>Я плачу на техно</h1>
 		</div>
 	);
