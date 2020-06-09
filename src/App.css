@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .app-wrapper {
 	display: flex;
 }
@@ -25,4 +26,12 @@
 	font-size: 35px;
 	background-color: #74d4c0;
 	color: #9a1f40;
+=======
+.App-wrapper {
+	max-width: 1280px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+>>>>>>> Stashed changes
 }

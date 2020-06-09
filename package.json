@@ -6,9 +6,13 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "gulp-postcss": "^8.0.0",
+    "postcss-pixels-to-rem": "^0.8.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "rfs": "^9.0.3",
+    "styled-components": "^5.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,6 +36,10 @@
     ]
   },
   "devDependencies": {
+<<<<<<< Updated upstream
     "react-router-dom": "^5.2.0"
+=======
+    "gulp": "^4.0.2"
+>>>>>>> Stashed changes
   }
 }
